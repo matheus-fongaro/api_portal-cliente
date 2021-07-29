@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bernardo-area-cliente",
+  "private_key_id": "15561a974c31691bec3c1be5074e8a180ba538f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf/OjA2BUbia6d\niS8hbyMMxsfnH03+xE3sMRsr5OoixK0Lw1uykfNc8R2yqA3SxFW4Zhwn+NhF03mS\nHjRuMEz1Wfr6UUjqPpZ8syBiZ+1w4QOp80MeZ2zS3V94iYYByw/b4ApnvzQkw18r\nDpYRZkh8zPSXzhM07tHnulFZa0EGLPKyW4iL1m8YynvryJVEzvMuFpwKw/02LEnQ\ng6hVYBdR675klMqEJi0oj2v8BdnWvLjACzNKtFQqukN0HgF0M1NucHQxHdZHcDJ3\nOw0FKA9AjmOmsFFXC3shOuBzze5EeIPPARvHnzL+mbLqJ96VWO4Bti0AFhXvtR6t\nOtm3emhLAgMBAAECggEARB+q9EKOalVsFwSNHw11vUD/afi4e10XWRVn3n7w+7EH\nhlS/PQBMwiyhWquYh0C2x3gjURny7Xio8YEPDkRe4LJZ3jCyfZv89EhJ590dC82k\ng79juxSLEBbXSjo055qRvCxgAeE20NioM2tYlzwYbZvQIrvLDeULWELL1OmInJnm\nlqmWLyiZ/39C/F2q3KBNCSs1BiF31xbyPKw9qF6hAU5LZ4MgXHpoaItd7mpo4RlT\nYEOMBqouYKDUf+X0QEp+gHW9SuIrM6V3OnfLWQGfpGpiOiee1cUp+au0Au5KBu1D\nJjrj4ojGsPqL9nigcVAQpWrOJWY+wHhEJFO2KUsvYQKBgQDS6p/hebqeigkhsoXn\n9vjR7OEc/zVwiueGFC49ANpovYzoui73g4FMyUGQayVKmRHajIsM1PvwnMx8as8B\n+Sgkb4geYOz4C4BfdA2xW/TQ4AV5L/EgtOz8eyZcH5kHzDg304Obkfs4iRuq4r/C\nBFwi005XNlj4Wt9JQS1lI2bi2QKBgQDCL3eTithXTKNsbXiNP6Sv34tEptgMkCAv\nrSfzm75q5Z5my2sEhokgj49C78jhLznq5robUjKut0XHeFLw9zYgmknokVHRr68R\njxpMANrNvhsZ8RaM/8zsx61Q813l0QDsrDrAk8GUZSbffYojMLbovlhkA7ZvjPR3\n07dY0/xlwwKBgEGRuz6Hb2LWGtyk+UgR2Wy5rYosNNrV9AAUygMg/sVNGD9JkkxU\nT6AleQKCrMcyKwC8bIYCuIgm1tNfCRfd84LQQYrgKws52CDUnWUj50oAOvNf2iCG\n3p3nUxeUoyhvbpK8aM+2ZFlBFp7bey2/2TziYBpwxNwAtCW743bruJKRAoGAXOeO\n4zUrmmDdU1PwuEt5xHdET10vwpr1+zlyAthBuy0OowmxsuGXG8/zb8f/KNWKdTtc\nURP7kaG3rd6AeC8eY2zN7YoRRiwyq0j3AOPry0Gn/7pb2qvL5IEIB9HX28sqERG5\nrkdC93eJqKWMgJee+y2OZpNsJmSe1fGiJ8qMWDcCgYABP8ZbXN/3CrFBtYptY6d9\nLeOWUnFdStblhBkzVyn3W+z59xBArPKTLiUJMFvm7eyTlVCGdGpyn9PYcX4yMSuc\n+BpO+pzooEg5/Gtw/9KesTk/nixToKgkk54eqsQtMFknSHKyPbj1FT+FeoAZNNnr\n/YK0ccAy7+OFVZ4zZjx3/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vbknp@bernardo-area-cliente.iam.gserviceaccount.com",
+  "client_id": "101830262078619918644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vbknp%40bernardo-area-cliente.iam.gserviceaccount.com"
+}
