@@ -9,13 +9,13 @@ import csurf from 'csurf';
 const google_credentials = require('./assets/firebaseSDK/chave_firebase.json');
 admin.initializeApp({
   credential: admin.credential.cert(google_credentials),
-  databaseURL: "https://bernardo-area-cliente-default-rtdb.firebaseio.com"
+  databaseURL: process.env.DATABASE_URL
 });
 
-axios.defaults.baseURL = 'http://177.124.184.24:57772/portalcli/api';
+axios.defaults.baseURL = process.env.API_URL;
 axios.defaults.auth = {
-  username: 'matio',
-  password: '1854'
+  username: process.env.API_USER,
+  password: process.env.API_PASS
 };
 
 const app = express();
@@ -26,7 +26,7 @@ app.use(cookieParser());
 var csrfProtection = csurf({ cookie: true });
 
 var corsOptions = {
-  origin: 'https://cliente.bernardoalimentos.com.br',
+  origin: '*',
   optionsSuccessStatus: 200,
 };
 app.use(csrfProtection);
